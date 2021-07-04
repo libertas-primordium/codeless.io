@@ -2,4 +2,8 @@
 Musings about philosophy, psychology, economics, and politics.
 
 ## Index:
-[The trouble with collectivism](./pol/troublewithcollectivism.md)
+[The Trouble With Collectivism](./pol/troublewithcollectivism.md)
+
+[The Demise of Reason](./phi/demiseofreason.md)
+
+[What OpenBazaar Could Be](./tek/ob.md)
